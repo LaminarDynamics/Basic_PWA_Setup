@@ -1,5 +1,6 @@
 # Basic PWA Example
 Basic PWA to show the how to cache data and work offline. 
+Some items could probably be re-foldered for better organization.
 
 # Important notes on .HTML page:
 * Be sure to link proper items in HTML like ServiceWorker, Manifest, and Apple Icon crap
