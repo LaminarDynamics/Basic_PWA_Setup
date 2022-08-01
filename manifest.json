@@ -1,0 +1,23 @@
+{
+    "name": "My First Good Progressive Web App",
+    "short_name": "New! PWA",
+    "description": "Another attempt at PWA building",
+    "icons": [
+        {
+            "src": "images/32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "images/512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "start_url": "basic_pwa.html",
+    "display": "fullscreen",
+    "theme_color": "#1c7e9c",
+    "background_color": "#e84d00"
+}
